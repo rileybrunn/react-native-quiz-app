@@ -2,6 +2,7 @@
   "name": "lab10",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "homepage": "http://rileybrunn.github.io/react-menu-app",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -18,6 +19,7 @@
     "@rneui/themed": "^4.0.0-rc.8",
     "expo": "^48.0.21",
     "expo-status-bar": "~1.11.1",
+    "gh-pages": "^6.1.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.73.4",
